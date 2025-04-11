@@ -7,7 +7,7 @@ class BarangController {
     private $barangModel;
 
     public function __construct() {
-        $this->barangModel = new Barang();
+        $this->barangModel = new  Barang();
     }
 
     public function getAllBarang() {

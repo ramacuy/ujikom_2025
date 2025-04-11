@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Inventory</title>
+    <title>gudangku</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="public/img/gudang.png">
@@ -22,7 +22,7 @@
         <!-- Kiri: Toggle + Inventory -->
         <div class="d-flex align-items-center">
             <button class="btn btn-outline-light me-2" id="toggleSidebar">☰</button>
-            <a class="navbar-brand mb-0 h1" href="#">Inventory</a>
+            <a class="navbar-brand mb-0 h1" href="#">gudangku</a>
         </div>
 
         <!-- Kanan: Sapaan Admin -->
